@@ -1,0 +1,25 @@
+{
+  "name": "github_practice-master",
+  "version": "1.0.0",
+  "description": "This project is a simple web calculator, use it to practice Github collaboration, testing and actions.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linadotcom/github-session2.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Linadotcom/github-session2/issues"
+  },
+  "homepage": "https://github.com/Linadotcom/github-session2#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
