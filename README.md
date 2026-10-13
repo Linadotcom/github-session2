@@ -12,6 +12,7 @@ This project is a simple web calculator, use it to practice Github collaboration
 - download from: [nodejs website](https://nodejs.org/)
 - verify that it is installed correctly:
 - i changed this line in readme
+- create a pull request
 > run in your terminal
 
 ```bash
